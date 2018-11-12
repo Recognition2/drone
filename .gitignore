@@ -1,0 +1,9 @@
+.settings/
+.idea/
+
+build/
+cmake-build-debug/
+*.o
+sdkconfi*
+CMakeLists.txt
+
