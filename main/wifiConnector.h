@@ -5,6 +5,7 @@
 #ifndef DRONE_WIFICONNECTOR_H
 #define DRONE_WIFICONNECTOR_H
 
+// We provide a C interface as well as a C++ interface
 extern "C" {
 void do_wifi();
 }
